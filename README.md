@@ -1,1 +1,4 @@
-# athletic_sales_analysis
+# Athletic Sales Analysis
+
+## Overview 
+This project is fully contained in "athletic_sales_analysis_starter_code.ipynb", is a python notebook used to analyze a series of athletic sales. First the data is cleaned and combined, then pivot tables and the groupby function were used to determine which region sold the most products. Again using groupby and pivot tables, it's determined which regions and retailers had the most sales. Then analysis was specifically focused on women's athletic footwear, looking both at which specific day and then which specific week had the most women's athletic footwear sales.
